@@ -8,4 +8,3 @@ The list below shows the currently applied patches to this build.
 - dmenu-border-4.9.diff
 - dmenu-center-20200111-8cd37e1.diff
 - dmenu-password-4.9.diff
-- dmenu-xresources-20200302-db6093f.diff
