@@ -6,3 +6,4 @@ dmenu_run
 dmenu_path
 stest
 pkg
+*.pkg.tar.xz
