@@ -14,16 +14,6 @@ The list below shows the currently applied patches to this build.
 
 ## Installation
 
-To install this package you can run several commands.
-
-### AUR
-
-Or you can clone it and run it by makepkg.
-- `git clone https://aur.archlinux.org/dmenu-tiyn-git.git`
-- `makepkg -sirc`
-
-### MAKE
-
 The most basic way is to clone the repository and then invoke make.
 - `git clone https://github.com/tiyn/dmenu`
 - `make clean install`
